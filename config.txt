@@ -1,6 +1,6 @@
 ﻿token=NTIyMDAyODEwNzc5MzM2NzE2.DvEqCg._j2RU0ob9HrenbEefqoDJV799J0
 owner=472051881984655382
 prefix= m
-game= mhelpp
+game= mhelp
 stayinchannel=true
 songinstatus=true 
